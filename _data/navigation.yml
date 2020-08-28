@@ -1,9 +1,8 @@
 # Sample site navigation bar links
-main:
-  - title: Home
-    url: /
-  - title: Statistics
-    url: /statistics/
+- title: Home
+  url: /
+- title: Statistics
+  url: /statistics/
 # - title: Posts
 #   url: /posts/
 # - title: Categories
