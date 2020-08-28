@@ -1,6 +1,6 @@
 ---
-title: Statistics
 permalink: /statistics/
+title: "Statistics"
 ---
 
 ###Linear Regression
