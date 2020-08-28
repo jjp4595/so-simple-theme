@@ -1,8 +1,7 @@
 ---
 title: Statistics
-layout: page
 permalink: /statistics/
-show_excerpts: false
-entries_layout: list
 ---
 
+###Linear Regression
+[What is linear regression](/_statistics/mathsjax.md). 
