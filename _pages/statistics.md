@@ -1,8 +1,8 @@
 ---
 title: Statistics
-layout: posts
+layout: page
 permalink: /statistics/
-show_excerpts: true
+show_excerpts: false
 entries_layout: list
 ---
 
