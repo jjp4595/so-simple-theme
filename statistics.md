@@ -1,5 +1,6 @@
 ---
 permalink: /statistics/
+layout: posts
 title: "Statistics"
 ---
 
