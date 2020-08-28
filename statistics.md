@@ -5,4 +5,4 @@ title: "Statistics"
 ---
 
 ###Linear Regression
-[What is linear regression](/statistics/2020-08-26-Mathsjax.md). 
+[What is linear regression](/_statistics/2020-08-26-Mathsjax.md). 
