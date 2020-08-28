@@ -1,6 +1,5 @@
 ---
 title: "MathJax Example"
-date: 2020-08-28T08:08:50-04:00
 ---
 
 [MathJax](http://www.mathjax.org/) is a simple, yet powerful, way of
