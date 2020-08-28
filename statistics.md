@@ -4,4 +4,4 @@ title: "Statistics"
 ---
 
 ###Linear Regression
-[What is linear regression](/_statistics/mathsjax.md). 
+[What is linear regression](/statistics/mathsjax.md). 
